@@ -2,7 +2,7 @@
 The DevOps Calculator Project is a simple yet effective calculator application implemented in Java. This project is designed to demonstrate the full DevOps lifecycle, including automated build, testing, Docker image creation, and deployment using Jenkins and Ansible.
 
 # Feature
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Arithmetic operations (Square root, factorial, natural log, power)
 - Automated unit testing with JUnit
 - Containerized deployment using Docker
 - CI/CD automation with Jenkins
